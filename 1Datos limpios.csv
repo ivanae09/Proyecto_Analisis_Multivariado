@@ -1,0 +1,501 @@
+user_id;age;gender;country;urban_rural;income_level;employment_status;education_level;exercise_hours_per_week;sleep_hours_per_night;weekly_work_hours
+145;49;Female;Brazil;Urban;Lower-middle;Freelancer;Master's;6,3;7,9;31,7
+640;53;Male;India;Urban;Middle;Student;High school;4,8;6,8;45,3
+903;51;Male;United States;Suburban;Upper-middle;Unemployed;Some college;1,6;7,1;38,4
+1328;27;Female;United States;Rural;Middle;Student;High school;0,7;5,6;40,4
+1397;28;Male;Canada;Rural;Low;Unemployed;High school;15,1;6,8;53,6
+4477;48;Male;India;Urban;Middle;Student;Some college;9,1;7,4;42,7
+4618;16;Female;Other;Suburban;High;Full-time employed;Some college;12,6;6,6;46,1
+4977;62;Female;Other;Suburban;Lower-middle;Student;Bachelor's;6,5;6,1;29,5
+5026;46;Female;United States;Rural;Middle;Full-time employed;Some college;7,6;7,4;43,6
+5453;14;Male;United States;Rural;Lower-middle;Full-time employed;Bachelor's;5,2;8,7;25,7
+5708;42;Female;India;Rural;Upper-middle;Full-time employed;High school;2,6;6,9;37,9
+6058;36;Female;United States;Urban;Upper-middle;Student;Some college;13,1;6,6;43,9
+7168;27;Male;Canada;Urban;Middle;Unemployed;Some college;12;8;31,5
+8666;17;Female;Japan;Suburban;Lower-middle;Student;Master's;6,1;6,3;29,7
+9917;36;Male;United States;Suburban;Upper-middle;Unemployed;Bachelor's;4;6,7;47,5
+10101;47;Male;India;Urban;Middle;Full-time employed;High school;7,6;7,3;53,7
+10154;24;Female;United States;Urban;Low;Unemployed;Other;6,2;7,1;42,1
+10688;36;Female;Canada;Urban;Low;Full-time employed;Master's;13,1;5,8;40,3
+12016;14;Female;United States;Suburban;Middle;Full-time employed;High school;3,5;7,4;60
+13728;31;Male;Germany;Suburban;Lower-middle;Full-time employed;Bachelor's;14,2;8,8;44,9
+14690;18;Female;India;Urban;Middle;Unemployed;Some college;11,1;7,5;44,9
+15511;19;Male;Other;Suburban;Low;Freelancer;Some college;7,7;7,5;22,9
+19066;51;Female;India;Suburban;Middle;Student;High school;6,9;7,3;29,8
+19854;26;Male;India;Urban;High;Freelancer;Some college;3,7;6,3;41,5
+20702;48;Male;United States;Suburban;Middle;Student;Other;9,3;6,3;23,2
+21179;53;Female;Canada;Urban;Lower-middle;Student;High school;2;6,3;36,1
+23518;34;Male;United States;Urban;Lower-middle;Full-time employed;Bachelor's;16,1;7,4;48,4
+25580;43;Male;South Korea;Urban;Lower-middle;Full-time employed;High school;7,4;6,6;34,6
+25639;30;Male;India;Urban;Low;Full-time employed;Other;4,9;8,8;47,9
+26649;60;Male;United States;Urban;Middle;Full-time employed;PhD;14,5;8,5;50
+30427;31;Male;United States;Urban;High;Student;Some college;9,4;7,6;33,4
+31000;46;Male;Brazil;Urban;Low;Student;Some college;13,9;7,6;47,8
+31065;20;Female;United States;Suburban;Lower-middle;Full-time employed;High school;4,7;6,9;36,9
+32157;30;Male;Germany;Urban;High;Student;Bachelor's;9;6,5;31
+32372;20;Female;United Kingdom;Rural;Low;Full-time employed;Bachelor's;10,8;5,6;49,5
+32668;51;Male;Australia;Rural;Lower-middle;Unemployed;High school;9;6,7;38,8
+32946;47;Male;Other;Urban;Middle;Student;Other;1,8;7;31,1
+36481;60;Male;South Korea;Suburban;Low;Student;High school;4,4;6,4;46,4
+37074;31;Male;Other;Suburban;High;Freelancer;Bachelor's;10;7,2;26,7
+37206;32;Female;United Kingdom;Rural;Upper-middle;Student;Master's;3,4;7,5;57,3
+37622;54;Female;Australia;Urban;Lower-middle;Part-time;High school;11,6;7,9;41
+37773;17;Female;India;Urban;Lower-middle;Retired;Some college;4,5;6,2;51,6
+37890;20;Male;India;Urban;Lower-middle;Freelancer;PhD;1,4;7,9;41,5
+38550;49;Male;United States;Urban;Middle;Freelancer;Some college;12,1;8,1;31,6
+39095;21;Male;Australia;Urban;High;Full-time employed;High school;8,6;7;30,1
+42080;49;Female;South Korea;Suburban;High;Student;Bachelor's;4,5;7,1;46,3
+42144;64;Male;Brazil;Urban;Middle;Full-time employed;Bachelor's;2,8;5,3;52,7
+42233;45;Female;United States;Suburban;Lower-middle;Freelancer;High school;5,2;7,8;42,9
+42262;40;Male;United States;Suburban;Middle;Full-time employed;Bachelor's;4,3;7;54,9
+42291;51;Male;India;Suburban;Lower-middle;Unemployed;Bachelor's;8,7;7,2;50,3
+46028;37;Male;Brazil;Suburban;Upper-middle;Full-time employed;Some college;5,7;5,8;50
+46056;17;Male;Other;Urban;Middle;Full-time employed;Some college;1,9;6,8;30,5
+46193;20;Female;Brazil;Rural;Middle;Freelancer;Master's;6,2;6,9;40,4
+46290;13;Male;Japan;Suburban;Middle;Full-time employed;Master's;17;7,9;36,3
+48380;22;Female;Australia;Urban;Lower-middle;Unemployed;Bachelor's;6,1;8,2;43,9
+49672;19;Female;United States;Urban;Low;Full-time employed;Master's;9,5;6,4;26,3
+50825;44;Female;India;Urban;Upper-middle;Unemployed;High school;8;9,6;43,4
+54780;64;Male;Australia;Rural;Middle;Unemployed;Some college;9,7;5,6;42,7
+55872;54;Female;India;Urban;Low;Full-time employed;Master's;4,8;6,5;45,1
+56060;34;Male;Canada;Suburban;Low;Part-time;Bachelor's;4,2;6,6;41,9
+56936;14;Male;India;Urban;Middle;Full-time employed;High school;1,2;5,9;52,7
+57157;60;Female;India;Suburban;Middle;Full-time employed;High school;5;7,3;25,1
+57468;46;Male;United States;Rural;Lower-middle;Unemployed;Some college;12,2;7,2;27,6
+57472;54;Female;Brazil;Urban;Low;Unemployed;Bachelor's;7,7;8,1;20,7
+58014;22;Female;South Korea;Rural;Low;Student;Bachelor's;12,7;5,7;33,2
+59312;45;Male;South Korea;Urban;Lower-middle;Full-time employed;Bachelor's;2,7;6,9;27
+59980;58;Male;United States;Urban;Lower-middle;Student;High school;9,5;7,6;37
+61487;37;Female;Australia;Urban;Lower-middle;Freelancer;Bachelor's;9,8;6,3;38,9
+61787;34;Male;Australia;Rural;Middle;Full-time employed;High school;14,7;6,5;40
+64364;56;Male;Other;Suburban;Middle;Full-time employed;Bachelor's;14,4;7,8;22,1
+64376;50;Male;United States;Suburban;Lower-middle;Full-time employed;Bachelor's;14,5;5,5;40,6
+64673;41;Female;Canada;Suburban;Upper-middle;Full-time employed;Some college;3,2;7,9;46,1
+65355;55;Male;United States;Suburban;Lower-middle;Full-time employed;Other;8,3;6,2;47
+65927;64;Male;India;Urban;Upper-middle;Student;Bachelor's;2,2;6,8;25,8
+66069;26;Male;Other;Urban;Middle;Full-time employed;PhD;8,7;7,1;34,9
+67408;63;Male;Brazil;Suburban;Upper-middle;Freelancer;Bachelor's;6,7;6,3;37,6
+67715;52;Female;South Korea;Urban;Low;Retired;Master's;9,5;7,1;45,4
+70309;20;Non-binary;Australia;Urban;Lower-middle;Unemployed;Bachelor's;5,2;8;59,4
+74103;52;Male;Brazil;Urban;High;Freelancer;Some college;3;6,3;41
+74396;41;Female;United Kingdom;Suburban;High;Part-time;Master's;6,5;7,1;37,4
+74606;61;Female;United States;Urban;Lower-middle;Full-time employed;Bachelor's;5,5;8;58,1
+75453;32;Male;South Korea;Urban;Lower-middle;Full-time employed;Some college;7,5;4,8;36,6
+77224;47;Male;Brazil;Urban;Lower-middle;Freelancer;Other;5,9;7;25,9
+77867;47;Female;United States;Rural;Lower-middle;Full-time employed;Master's;7,6;7,9;31,8
+80459;52;Female;United Kingdom;Urban;High;Freelancer;High school;4,6;9,3;32,7
+80600;32;Male;Germany;Rural;High;Full-time employed;Master's;10,9;6,7;66,4
+81891;26;Female;India;Urban;Middle;Full-time employed;High school;7,5;7,9;53,1
+81963;61;Male;United States;Urban;High;Student;Bachelor's;2,4;6,9;37,4
+83102;60;Male;Brazil;Urban;Middle;Freelancer;Bachelor's;2,8;6,4;28,3
+83125;22;Male;United States;Urban;High;Full-time employed;Some college;8,6;6,2;19,1
+85496;43;Non-binary;Other;Urban;Middle;Student;Some college;6,3;6,5;34,5
+85821;51;Female;United Kingdom;Suburban;Middle;Full-time employed;PhD;8,8;8,3;13,5
+86249;63;Female;United Kingdom;Urban;Lower-middle;Full-time employed;Bachelor's;6;7,4;48,5
+88661;65;Male;United States;Suburban;Middle;Retired;High school;10,6;8,4;34,2
+88963;18;Male;Germany;Urban;Upper-middle;Full-time employed;Bachelor's;5;7,3;48,2
+89397;44;Male;Germany;Suburban;High;Student;Some college;11,1;7,8;54,5
+89634;40;Female;United States;Rural;Middle;Student;High school;0,5;7,4;34,6
+92446;16;Female;Canada;Suburban;Upper-middle;Part-time;Bachelor's;4,3;5,3;32,7
+92506;41;Female;India;Urban;Lower-middle;Retired;Master's;5,4;6,7;46,3
+93919;41;Female;Australia;Urban;Upper-middle;Unemployed;Bachelor's;10,8;9,4;43,8
+95100;50;Female;Brazil;Urban;Middle;Full-time employed;Some college;10,8;6,9;31,9
+99347;40;Female;Canada;Urban;Upper-middle;Unemployed;Some college;5,5;7,7;57,4
+100876;59;Female;Canada;Suburban;Upper-middle;Student;Bachelor's;13,7;8,6;41,5
+100946;19;Female;Australia;Suburban;Middle;Full-time employed;Bachelor's;18;5,5;45,2
+101097;65;Male;Brazil;Rural;Upper-middle;Full-time employed;Master's;11,5;6,5;44,6
+101147;32;Male;United States;Urban;Middle;Freelancer;Some college;11,6;6;38,9
+101984;45;Male;India;Urban;Upper-middle;Full-time employed;High school;6;7;27,1
+102630;53;Female;Other;Rural;Upper-middle;Freelancer;Bachelor's;10,4;7,5;34,3
+102924;25;Female;South Korea;Suburban;Low;Full-time employed;Other;2;4,9;43,8
+105500;32;Female;United States;Urban;Middle;Full-time employed;PhD;11,8;5,7;45,6
+106025;33;Female;Other;Urban;Upper-middle;Full-time employed;Bachelor's;12,9;6,7;37,3
+106262;60;Male;United States;Rural;Low;Student;Master's;2,4;8,5;48,5
+106608;60;Female;Brazil;Rural;Lower-middle;Full-time employed;High school;1,6;6,8;27,9
+106906;27;Female;Australia;Suburban;Upper-middle;Unemployed;Some college;8,5;6,8;49,5
+107100;56;Female;India;Urban;Middle;Student;Bachelor's;3,6;8;42,6
+111212;30;Female;India;Suburban;Lower-middle;Part-time;Some college;14,6;8,1;41,5
+111285;29;Male;Canada;Suburban;Low;Full-time employed;Bachelor's;6;7,4;34,9
+111600;48;Male;Other;Urban;High;Full-time employed;High school;9;8,9;45,9
+113738;34;Male;United States;Suburban;Middle;Freelancer;PhD;6,2;8,7;28,3
+114024;18;Male;Australia;Suburban;Upper-middle;Full-time employed;Bachelor's;2,5;7,2;39,1
+114267;63;Male;United States;Urban;Upper-middle;Full-time employed;Master's;8,6;6;44
+115229;37;Female;United States;Suburban;Low;Full-time employed;Bachelor's;9,4;7,8;34,1
+116045;32;Female;Other;Suburban;Upper-middle;Student;Other;5,3;7,1;42,5
+116501;20;Male;Japan;Rural;Middle;Full-time employed;Bachelor's;8,1;8,8;40,8
+117214;50;Female;Brazil;Suburban;Low;Student;Bachelor's;5,1;7,6;45,4
+117337;48;Female;South Korea;Urban;Middle;Retired;High school;14,9;8,7;41,3
+118631;14;Female;Germany;Urban;Low;Full-time employed;Some college;10;5,8;45
+122221;17;Non-binary;United Kingdom;Urban;Upper-middle;Full-time employed;High school;9,2;6,1;40
+122626;51;Male;United States;Urban;Middle;Full-time employed;Bachelor's;4,2;8,6;34,7
+123881;31;Male;United Kingdom;Urban;High;Unemployed;Bachelor's;5,5;7,6;39,6
+123932;21;Female;India;Urban;Upper-middle;Student;Some college;3;7,1;63,9
+124047;59;Male;Brazil;Urban;Lower-middle;Part-time;Bachelor's;7,1;8,1;33,5
+126345;65;Male;United States;Suburban;Middle;Full-time employed;Bachelor's;8,7;7,8;45,1
+127781;60;Male;Canada;Rural;Upper-middle;Full-time employed;Bachelor's;6,1;6,5;37,3
+129231;40;Male;Other;Suburban;Low;Freelancer;Bachelor's;2,8;7;34,3
+131831;25;Male;Germany;Rural;Low;Part-time;Bachelor's;5,6;7,7;41,9
+131997;35;Male;United States;Urban;Low;Full-time employed;Bachelor's;9;7,5;23,3
+132243;19;Male;India;Rural;High;Full-time employed;Bachelor's;5,5;7,2;35,9
+132311;44;Male;United Kingdom;Rural;High;Full-time employed;Master's;8,5;7,2;19,3
+133540;56;Male;India;Urban;Low;Full-time employed;Some college;7;7,6;28,4
+135205;32;Female;Germany;Suburban;Upper-middle;Student;Master's;1,5;6,9;27,2
+135426;17;Male;Brazil;Urban;Upper-middle;Full-time employed;High school;7,4;6,8;34,5
+135521;54;Female;Brazil;Urban;High;Retired;High school;16,8;5,8;43,8
+137385;36;Male;United States;Suburban;Middle;Full-time employed;High school;9;5,4;45,3
+138082;27;Male;Australia;Urban;Middle;Full-time employed;High school;3,8;5,1;37
+139392;39;Female;United Kingdom;Urban;Middle;Full-time employed;Bachelor's;5,4;8,9;40,5
+139614;41;Female;United States;Urban;Middle;Student;Some college;1,6;8,3;36
+140903;14;Prefer not to say;Brazil;Rural;Lower-middle;Full-time employed;Master's;4,3;8,5;50,4
+141820;36;Female;United States;Urban;Low;Full-time employed;Other;7,1;6,1;27,8
+142139;55;Male;Brazil;Suburban;Lower-middle;Full-time employed;Bachelor's;5,1;5,6;57,1
+142559;26;Male;South Korea;Urban;Low;Freelancer;Some college;5,8;6,7;50,8
+143925;22;Female;Germany;Urban;Low;Full-time employed;Some college;5;6,1;36,6
+144782;49;Female;United States;Rural;Low;Full-time employed;Bachelor's;2,1;7,7;34,3
+145189;63;Female;United Kingdom;Suburban;Middle;Full-time employed;Bachelor's;6;7,8;40,8
+145792;22;Female;India;Urban;Middle;Retired;High school;1,4;8,7;43,6
+146381;30;Male;India;Suburban;High;Student;Some college;6,7;5,7;44,2
+148208;56;Male;India;Urban;Lower-middle;Student;High school;16,7;4,9;32,2
+148267;49;Male;United States;Rural;Lower-middle;Student;Bachelor's;4,6;5,1;33,5
+148777;62;Female;United States;Suburban;Low;Full-time employed;High school;2,5;5,8;52,8
+149180;44;Non-binary;India;Suburban;Lower-middle;Student;Other;8;5,4;24,6
+150550;34;Female;South Korea;Urban;High;Full-time employed;Bachelor's;8,8;6,9;30,5
+150899;39;Female;United States;Suburban;Low;Unemployed;Master's;9,7;6,8;38,3
+150996;29;Female;Brazil;Urban;Upper-middle;Full-time employed;Some college;1,2;6,2;38,4
+152601;39;Female;United States;Urban;Middle;Part-time;High school;11,1;4,3;25,2
+152732;45;Female;India;Urban;Lower-middle;Retired;Bachelor's;13,1;4,6;23,4
+153214;35;Male;Brazil;Urban;Lower-middle;Unemployed;High school;13,3;5,9;47,7
+154309;23;Male;Canada;Urban;High;Student;High school;5,7;5,7;27,8
+155267;18;Female;India;Suburban;Middle;Full-time employed;Some college;2,7;8,5;49
+155629;28;Female;Other;Suburban;Low;Full-time employed;Other;6,8;5,5;25
+156411;31;Male;Canada;Rural;Low;Full-time employed;Some college;8,7;7,2;60,2
+157928;57;Male;Canada;Suburban;Lower-middle;Freelancer;Other;5,2;7,6;43,5
+157994;43;Male;United States;Urban;High;Part-time;High school;6,8;9,4;60,2
+158319;35;Female;Canada;Rural;Upper-middle;Freelancer;Some college;9,9;7,6;49,9
+158322;43;Female;Canada;Urban;Lower-middle;Part-time;Master's;10;4,3;33
+160399;20;Male;United States;Urban;Middle;Full-time employed;Some college;12,5;6,9;34
+160839;31;Male;India;Suburban;Middle;Unemployed;Bachelor's;1,5;7,2;51
+162058;15;Female;Brazil;Suburban;Middle;Full-time employed;Some college;15,9;8,2;52,1
+162486;53;Female;United Kingdom;Urban;Lower-middle;Student;Some college;5,5;10;40,1
+162691;27;Male;United Kingdom;Urban;High;Part-time;Bachelor's;4,8;8;57,6
+164195;20;Female;Brazil;Urban;Middle;Student;High school;7;6;51,8
+164391;50;Female;United Kingdom;Urban;Middle;Student;Some college;1,6;6,6;44,8
+165073;35;Female;Australia;Suburban;Low;Full-time employed;Some college;3,6;7,6;39,8
+166197;59;Male;United Kingdom;Suburban;Upper-middle;Full-time employed;Other;11,6;7,1;36,6
+170105;48;Female;Canada;Suburban;Lower-middle;Student;High school;10,8;7,7;64,1
+170416;50;Male;Australia;Urban;High;Full-time employed;Bachelor's;9,9;8,1;31,2
+170714;31;Female;Japan;Rural;Low;Full-time employed;Some college;5,5;9,4;49,9
+171866;25;Female;Australia;Suburban;Middle;Full-time employed;Bachelor's;3,3;6,7;28,5
+172144;55;Female;United States;Urban;Low;Full-time employed;High school;2,7;5,3;53,6
+172343;48;Male;United States;Urban;Upper-middle;Student;Bachelor's;7,7;6,7;22,7
+172483;26;Female;United States;Urban;Middle;Full-time employed;High school;5,5;7,9;41,7
+172485;41;Male;United States;Rural;Middle;Full-time employed;Bachelor's;10,2;7,3;45,9
+174274;46;Male;United Kingdom;Suburban;Middle;Student;Other;10,7;8,4;33,6
+174878;19;Male;Other;Suburban;Low;Full-time employed;Some college;4,3;6,1;52,7
+176236;56;Male;India;Urban;Middle;Full-time employed;High school;8,2;6,3;40,2
+177534;29;Male;United States;Suburban;Upper-middle;Full-time employed;Bachelor's;3;7,2;50,1
+178569;14;Male;Japan;Suburban;Middle;Full-time employed;High school;0,7;5,1;35,7
+178879;14;Female;United Kingdom;Suburban;Low;Full-time employed;Bachelor's;5,1;5,8;20,2
+179118;25;Female;India;Urban;Middle;Student;Bachelor's;12,4;6,3;42
+179801;17;Female;India;Suburban;Low;Student;Some college;0,9;6,9;54,9
+180656;46;Male;Other;Urban;Middle;Retired;Master's;8;8,2;45
+180735;58;Female;Canada;Urban;Low;Full-time employed;Master's;12,8;7,4;44,2
+181766;51;Non-binary;United Kingdom;Suburban;Low;Unemployed;Some college;8,5;6,2;49,4
+182243;56;Male;United States;Suburban;Middle;Full-time employed;Some college;5,4;6,1;31,5
+183132;60;Male;Canada;Suburban;High;Full-time employed;High school;7,3;6,6;32,3
+186380;13;Female;Brazil;Suburban;Upper-middle;Full-time employed;Bachelor's;4,4;8,3;44
+188557;23;Male;India;Suburban;Lower-middle;Full-time employed;High school;10,3;7,5;39,2
+190246;41;Female;Australia;Urban;Lower-middle;Full-time employed;Some college;6;7;21
+192458;56;Male;Other;Urban;Middle;Full-time employed;Bachelor's;7;7,2;43,2
+192977;64;Female;Australia;Suburban;Low;Full-time employed;Some college;12,9;5,6;33,6
+193737;64;Male;Canada;Suburban;Middle;Full-time employed;Master's;9,5;7,8;48,2
+193969;50;Male;Canada;Urban;Upper-middle;Full-time employed;Bachelor's;4;6,1;32,6
+194392;60;Male;Germany;Rural;Low;Retired;High school;2,8;6,7;39,2
+195440;16;Female;Germany;Rural;Upper-middle;Full-time employed;Master's;15,4;7,9;50,6
+195491;60;Male;United States;Suburban;High;Full-time employed;PhD;2,5;7,8;54,5
+196809;57;Male;United States;Suburban;Middle;Part-time;Bachelor's;5,4;7;53,7
+196841;63;Male;India;Urban;Low;Student;Some college;2,4;7,3;52
+200525;65;Female;Other;Rural;Low;Unemployed;Other;3,3;7,9;28,1
+201398;34;Male;Brazil;Rural;Lower-middle;Freelancer;High school;8,1;6,6;53,4
+201440;32;Female;Brazil;Urban;High;Freelancer;PhD;0,4;7,7;32
+201836;57;Male;India;Rural;High;Freelancer;High school;9,2;7,2;42,7
+203100;17;Female;Canada;Urban;High;Part-time;PhD;12,9;6,7;32,7
+203615;32;Female;Canada;Urban;Low;Full-time employed;Other;11,1;6,2;42,5
+207576;37;Male;United States;Rural;Low;Full-time employed;High school;1,1;6,8;49,9
+208457;54;Female;South Korea;Rural;Middle;Full-time employed;PhD;9,8;7,9;39,7
+209094;13;Female;India;Rural;Low;Full-time employed;Some college;1,3;8,4;23,4
+214783;60;Male;United States;Urban;Middle;Full-time employed;Master's;9;8,3;34,6
+215620;33;Male;United States;Rural;Middle;Part-time;Bachelor's;2,1;6,5;31,2
+219859;32;Male;South Korea;Urban;Upper-middle;Part-time;High school;3,7;6,4;45,2
+220499;62;Male;United States;Urban;Upper-middle;Full-time employed;High school;10,8;6,1;36,2
+220650;40;Male;Canada;Suburban;Middle;Full-time employed;Bachelor's;4,5;6,9;30,9
+220658;31;Male;Brazil;Suburban;Low;Unemployed;Some college;7,6;5,7;51
+220663;31;Female;Canada;Suburban;Lower-middle;Full-time employed;Master's;9,4;7,6;38,5
+222274;54;Male;India;Suburban;Upper-middle;Full-time employed;Bachelor's;1,8;9,1;51,4
+223009;44;Male;Brazil;Urban;Upper-middle;Freelancer;Bachelor's;1,2;8,7;55,3
+223882;27;Female;Australia;Urban;Lower-middle;Full-time employed;Bachelor's;11;8,2;46,7
+224797;29;Male;Germany;Urban;Middle;Full-time employed;Bachelor's;3,6;7,9;49,8
+228531;18;Female;Germany;Suburban;High;Full-time employed;Bachelor's;10,7;7,7;36,1
+228788;29;Male;Other;Urban;Low;Full-time employed;Some college;0,7;6,5;36,6
+228963;42;Prefer not to say;India;Suburban;Upper-middle;Freelancer;Other;9,5;7,6;40,4
+229636;27;Male;Brazil;Urban;Lower-middle;Freelancer;High school;9,9;5,4;42,2
+230224;41;Male;Brazil;Urban;Lower-middle;Student;High school;10,2;5,6;22
+231037;49;Male;United Kingdom;Suburban;Upper-middle;Unemployed;Some college;6,5;7,3;27,5
+232182;34;Female;United States;Urban;Middle;Full-time employed;Bachelor's;4,9;7,2;51,2
+232553;44;Female;United Kingdom;Urban;Low;Freelancer;Bachelor's;6,2;7,9;38,7
+234004;41;Male;Other;Suburban;Middle;Freelancer;Bachelor's;4,2;8,4;51,8
+235418;63;Female;United States;Suburban;Lower-middle;Student;High school;10,1;8,2;47,2
+235988;30;Female;United States;Rural;Low;Unemployed;Master's;8,3;6,2;36,8
+236086;45;Female;Other;Urban;Middle;Student;Bachelor's;3;7,3;43,1
+236758;40;Male;South Korea;Urban;Low;Full-time employed;Other;0,5;6,1;34,9
+237343;62;Female;United States;Urban;Upper-middle;Unemployed;Some college;5,7;6,5;41,7
+239310;54;Male;Japan;Urban;Lower-middle;Full-time employed;Some college;4,2;5,7;38,1
+239382;61;Female;Other;Urban;Lower-middle;Part-time;Some college;7,8;7,5;29,4
+239427;65;Male;United States;Rural;Upper-middle;Full-time employed;Master's;6,9;7,6;27,3
+240836;49;Male;India;Rural;Middle;Full-time employed;Other;4;8,4;39,3
+242332;24;Male;India;Suburban;Upper-middle;Full-time employed;High school;17,8;8,3;32,3
+243042;44;Female;India;Urban;Low;Student;High school;3,1;8,2;35,9
+243899;65;Male;Brazil;Suburban;Upper-middle;Unemployed;Some college;5,6;5,5;38,3
+246631;40;Female;Other;Urban;Low;Full-time employed;High school;7,3;8,8;57,4
+246927;33;Female;United States;Urban;Middle;Full-time employed;PhD;2,3;7,1;44,3
+247314;58;Male;Brazil;Suburban;Middle;Full-time employed;PhD;2,6;6,7;42,7
+247377;62;Male;Brazil;Suburban;High;Full-time employed;Bachelor's;10,7;6,9;31
+247928;64;Male;India;Urban;Upper-middle;Unemployed;Bachelor's;4,4;7,4;27,3
+248016;38;Male;United States;Suburban;Middle;Unemployed;Bachelor's;9,2;8,8;44,5
+251554;49;Male;Canada;Urban;High;Unemployed;Some college;3,2;6,5;50,9
+252871;56;Male;Australia;Rural;Low;Full-time employed;Some college;6,5;8,3;35
+253145;23;Female;Other;Suburban;Lower-middle;Full-time employed;Bachelor's;2,2;7,8;28,8
+253380;60;Female;United States;Rural;High;Part-time;Some college;10,2;6,8;56
+253404;23;Female;India;Rural;Middle;Full-time employed;Other;6,8;6,6;36,9
+253515;34;Female;United States;Urban;Low;Full-time employed;Bachelor's;15;8;28
+253894;62;Female;South Korea;Suburban;Middle;Part-time;PhD;6,3;7,3;54,8
+254689;41;Female;Germany;Urban;Middle;Full-time employed;High school;5,6;5,9;46,7
+255946;40;Male;United States;Suburban;High;Freelancer;Master's;7,8;9,3;37,1
+257088;31;Male;Brazil;Urban;Lower-middle;Student;High school;6,1;7,1;46,2
+257193;43;Male;Japan;Urban;Middle;Full-time employed;Master's;10,5;5,1;43,6
+259093;21;Female;United States;Suburban;Lower-middle;Full-time employed;PhD;6,3;7,2;44,8
+260762;21;Female;United States;Urban;Lower-middle;Retired;Bachelor's;7;7,8;37,2
+262437;45;Female;United States;Urban;Low;Student;High school;8,1;6,2;28,1
+263786;50;Male;Brazil;Urban;Middle;Freelancer;Bachelor's;11,7;6,1;35,5
+264390;15;Female;Germany;Suburban;Lower-middle;Full-time employed;High school;2,3;7,5;37,2
+264725;32;Male;Australia;Rural;Lower-middle;Full-time employed;Bachelor's;4,9;6,3;36,3
+265819;47;Male;United States;Urban;Lower-middle;Unemployed;Some college;8,7;7,6;57
+266633;25;Female;Other;Suburban;Middle;Full-time employed;Other;4,5;7,1;51,1
+266670;33;Non-binary;Australia;Suburban;Middle;Freelancer;Bachelor's;9,6;5,8;44,7
+266990;31;Female;United States;Suburban;Lower-middle;Full-time employed;Some college;17,3;7,4;37,1
+267169;49;Female;India;Rural;Low;Full-time employed;High school;13,2;5,3;22,4
+267439;62;Non-binary;South Korea;Urban;High;Freelancer;Bachelor's;9,5;7;46,6
+268692;65;Female;Canada;Rural;Lower-middle;Full-time employed;Some college;7,3;8,9;35,8
+268792;52;Male;United Kingdom;Rural;Upper-middle;Unemployed;Bachelor's;3,6;7,6;42,3
+270222;52;Male;Canada;Urban;Middle;Student;PhD;6,2;8,1;27,1
+272179;41;Male;Australia;Urban;Middle;Freelancer;Bachelor's;8,9;6,7;50,5
+272403;18;Male;India;Urban;Middle;Full-time employed;Some college;6,9;8,7;48
+272744;44;Male;India;Urban;Lower-middle;Unemployed;Some college;11,5;5,1;33,5
+273301;20;Female;Germany;Suburban;Middle;Full-time employed;Bachelor's;0,8;5,3;41,9
+273968;24;Male;Other;Rural;Middle;Student;Master's;15;6,1;42,6
+275830;25;Female;Australia;Rural;Low;Unemployed;Bachelor's;12,1;8,8;35,8
+277358;32;Male;Canada;Rural;Lower-middle;Full-time employed;Master's;6,7;6,1;32,1
+279662;27;Male;Australia;Urban;Middle;Part-time;Some college;5,4;6,9;57,3
+280305;48;Male;Canada;Rural;Middle;Freelancer;Some college;6,1;8;40
+280853;47;Female;Other;Urban;Upper-middle;Part-time;Some college;12,5;5,3;51
+280981;29;Female;Japan;Suburban;Middle;Full-time employed;High school;2,8;6,9;47,3
+281956;29;Male;United Kingdom;Urban;Low;Full-time employed;PhD;1;6,4;27,2
+283347;31;Male;United Kingdom;Urban;Upper-middle;Part-time;Bachelor's;8,7;7,3;41,6
+284169;34;Female;Canada;Urban;Middle;Retired;High school;8,9;5,3;47,5
+284371;24;Female;India;Urban;Low;Part-time;Some college;0,4;6,7;31
+285082;53;Male;Australia;Urban;High;Part-time;Some college;11;7,3;34,9
+285473;54;Male;Brazil;Urban;Middle;Student;Bachelor's;6,9;7,6;26,7
+285626;31;Male;Canada;Urban;Lower-middle;Unemployed;Some college;13,1;6,7;45,1
+285754;19;Female;Brazil;Urban;Middle;Full-time employed;Some college;10,7;6,9;33,1
+286347;59;Female;Germany;Urban;Middle;Unemployed;High school;12,5;5,6;54,7
+287734;29;Female;India;Urban;Middle;Full-time employed;PhD;9,1;6,3;50
+288186;44;Female;India;Rural;Low;Full-time employed;Master's;10,1;7,4;42,6
+289959;40;Male;Other;Urban;High;Student;Bachelor's;2,8;7,7;37,3
+290125;55;Prefer not to say;Brazil;Urban;Lower-middle;Student;Master's;11,7;7,6;43,1
+290171;36;Male;United States;Urban;Low;Full-time employed;High school;4,7;7,3;45,1
+290364;44;Male;United States;Rural;Upper-middle;Freelancer;Some college;3,4;5,6;28
+291999;18;Female;India;Urban;Upper-middle;Retired;High school;8;6,6;52
+293237;41;Male;Japan;Urban;Lower-middle;Full-time employed;High school;5,8;8,6;41,9
+295840;20;Male;United States;Suburban;Lower-middle;Student;High school;10,4;8,7;53,1
+296376;14;Female;United States;Urban;High;Retired;Bachelor's;9,2;4,9;49,5
+298195;42;Male;Brazil;Urban;High;Student;Some college;8,9;7,3;26,1
+300411;33;Female;United Kingdom;Urban;Lower-middle;Full-time employed;Bachelor's;10,6;7,2;42,5
+303006;53;Female;India;Suburban;Lower-middle;Part-time;Bachelor's;12,7;6,4;48,1
+303112;45;Female;Germany;Urban;Middle;Full-time employed;High school;7,5;7,3;31,9
+303841;29;Male;South Korea;Suburban;Middle;Student;Master's;7,2;7,2;38,4
+306704;47;Female;United States;Rural;Low;Unemployed;Master's;9,4;5,3;40,5
+307300;52;Male;Germany;Urban;Lower-middle;Student;Some college;6;6;38,3
+308538;51;Male;Canada;Suburban;High;Student;Bachelor's;10;7,7;42,3
+309396;38;Female;United Kingdom;Urban;Low;Full-time employed;Bachelor's;14,2;7,1;34,8
+309994;45;Non-binary;United Kingdom;Urban;Upper-middle;Full-time employed;High school;3,2;8,8;54,8
+310813;19;Female;United States;Urban;Lower-middle;Full-time employed;Bachelor's;6,7;7,6;36,9
+311145;56;Female;United States;Rural;Low;Full-time employed;Some college;4,3;5,8;38,9
+311488;62;Male;United States;Urban;Lower-middle;Full-time employed;High school;12,8;4,1;43,8
+311833;39;Female;United States;Urban;Upper-middle;Student;Bachelor's;9,1;4,8;53,2
+316466;47;Female;Other;Urban;Low;Retired;High school;8,9;5,6;41,9
+318679;32;Male;India;Rural;Low;Full-time employed;Some college;8,5;6,4;44,4
+319922;59;Male;Brazil;Urban;Upper-middle;Full-time employed;Bachelor's;10,2;6;54,4
+321810;30;Male;United States;Urban;Middle;Student;Other;12,6;8,7;31,7
+322855;57;Male;India;Urban;Middle;Full-time employed;High school;11;7;41,2
+325673;29;Female;Other;Suburban;Lower-middle;Full-time employed;Bachelor's;10,8;6,7;38,5
+326610;17;Male;Brazil;Suburban;High;Unemployed;Some college;0,9;6,3;53,3
+326826;28;Female;Brazil;Suburban;Middle;Full-time employed;Some college;8;8,1;33,1
+326896;21;Male;Brazil;Suburban;Middle;Full-time employed;High school;3,7;6,5;40,2
+326997;22;Male;Australia;Suburban;Upper-middle;Student;Bachelor's;5,7;6,8;60,6
+328679;37;Male;United States;Urban;Low;Full-time employed;Some college;8,4;6,3;41,8
+328819;33;Female;Canada;Urban;Lower-middle;Full-time employed;High school;2,7;7,8;65,7
+331003;39;Female;United States;Suburban;Middle;Student;Other;3,4;7,4;35,2
+332135;48;Female;United States;Rural;Middle;Full-time employed;Bachelor's;16,5;8,6;51,9
+335059;28;Female;India;Suburban;High;Full-time employed;Some college;9;4,9;32,3
+335919;53;Male;India;Urban;Middle;Student;Some college;5,4;5,4;45,9
+336120;24;Male;Japan;Urban;Middle;Full-time employed;Bachelor's;9;8,3;42,6
+336442;42;Male;Canada;Rural;Low;Full-time employed;High school;4,7;6,8;54,5
+336972;53;Female;India;Urban;Low;Student;Some college;10,2;6,5;38,6
+337929;64;Female;United States;Urban;Middle;Student;Some college;10,7;6,9;50,8
+338082;36;Male;Japan;Urban;Lower-middle;Student;Bachelor's;4,3;6,5;35,2
+341504;46;Female;United States;Rural;Middle;Part-time;Some college;14,1;6,6;40,7
+341947;48;Female;United States;Urban;Middle;Freelancer;Other;14,8;7,1;43,3
+343846;28;Male;Brazil;Urban;Lower-middle;Full-time employed;Bachelor's;5,5;6,7;60,3
+344193;34;Male;South Korea;Urban;High;Full-time employed;PhD;7,1;5,8;42,7
+344711;33;Male;United States;Rural;Low;Freelancer;Bachelor's;6,3;5,9;36,1
+345720;29;Male;United States;Urban;High;Student;Some college;0,7;6,7;39,4
+346362;31;Male;United States;Rural;Lower-middle;Freelancer;Some college;7,3;5,7;32,7
+347505;26;Male;United Kingdom;Urban;Middle;Student;Bachelor's;4,5;5,7;51,1
+347512;59;Male;United Kingdom;Suburban;Lower-middle;Student;Master's;11;7,7;8
+348232;42;Female;United States;Urban;Middle;Part-time;Bachelor's;6,6;8,2;42,4
+349844;30;Male;India;Rural;Lower-middle;Full-time employed;Some college;6,9;8,2;36,6
+350311;37;Male;India;Urban;Low;Full-time employed;Bachelor's;13,1;7,9;29,8
+350328;54;Female;Other;Urban;High;Full-time employed;Bachelor's;2,6;8,2;49,7
+351186;16;Male;Brazil;Urban;High;Unemployed;Master's;11,9;7;27,5
+352925;51;Male;Japan;Urban;Low;Student;Some college;16,4;7,2;40,9
+352946;51;Male;United Kingdom;Urban;Low;Unemployed;High school;6,8;7,3;41,2
+353602;16;Male;Other;Urban;Upper-middle;Student;Bachelor's;9,7;7,1;27,7
+354265;65;Female;United States;Urban;Low;Student;Bachelor's;2,6;5,6;46
+354474;34;Female;Other;Suburban;Lower-middle;Unemployed;Bachelor's;9;6,7;63,4
+354560;58;Male;India;Urban;Middle;Full-time employed;High school;13,4;7,2;35,5
+359670;29;Female;India;Urban;High;Full-time employed;Bachelor's;2,3;8,4;41,7
+361400;36;Female;Other;Suburban;Middle;Full-time employed;Bachelor's;7,6;8,4;49,7
+366468;51;Non-binary;United States;Urban;Upper-middle;Unemployed;Bachelor's;10,1;7;23,7
+368850;54;Female;India;Rural;Lower-middle;Unemployed;High school;5,3;7,8;28,6
+369989;18;Female;South Korea;Urban;Upper-middle;Full-time employed;Bachelor's;7,1;6,7;43,7
+370238;56;Female;United States;Urban;Low;Student;Master's;9,1;7,2;46,9
+370716;63;Female;United States;Rural;Lower-middle;Freelancer;Some college;5,5;4,7;31,4
+370774;42;Female;Other;Urban;Lower-middle;Full-time employed;Bachelor's;8,3;7,8;51,8
+370901;58;Male;Other;Rural;Middle;Student;Bachelor's;9,4;7,4;28,2
+372162;33;Female;United States;Rural;Low;Part-time;PhD;6;7,7;40,3
+372894;36;Female;Canada;Urban;Upper-middle;Full-time employed;High school;6,5;7,4;54,6
+373503;17;Female;South Korea;Suburban;Low;Part-time;Bachelor's;5,1;7;29,3
+376684;43;Male;Japan;Suburban;Upper-middle;Full-time employed;High school;3,2;9,4;39,1
+378469;57;Male;Brazil;Suburban;Middle;Student;PhD;9,7;7;35,2
+378850;62;Female;United States;Urban;Lower-middle;Retired;Bachelor's;4,3;7,9;45,2
+379881;19;Male;United States;Suburban;Middle;Full-time employed;PhD;5;7,5;57
+381894;13;Male;Other;Suburban;Middle;Full-time employed;Some college;2,8;7,5;24,3
+384232;56;Male;United States;Urban;Upper-middle;Full-time employed;High school;7,1;5,6;39
+384275;42;Female;India;Suburban;Middle;Student;High school;20,2;7,3;48,8
+385187;52;Male;India;Suburban;Upper-middle;Full-time employed;High school;2,1;6,8;37
+386311;27;Non-binary;United Kingdom;Urban;Low;Student;High school;4,1;8,1;37,1
+386867;35;Male;United States;Urban;Low;Freelancer;Bachelor's;6,8;7,3;38,4
+386988;26;Female;Germany;Suburban;Middle;Freelancer;Some college;5,2;5,9;30,5
+387843;34;Male;United States;Urban;Middle;Full-time employed;Bachelor's;5;6,4;45
+388723;36;Female;India;Suburban;Upper-middle;Part-time;High school;7,6;6,6;45,2
+390665;27;Male;United Kingdom;Urban;Lower-middle;Full-time employed;High school;9,3;5,8;41,6
+390938;26;Female;Germany;Urban;Lower-middle;Student;Some college;10,9;8,1;34,1
+391950;25;Male;United States;Rural;Middle;Full-time employed;Other;12,6;8;36,9
+392105;23;Male;Canada;Urban;High;Full-time employed;Bachelor's;3;6,5;41,7
+393356;37;Female;Japan;Urban;Upper-middle;Unemployed;High school;4;7,8;29,9
+394291;54;Female;Brazil;Urban;Lower-middle;Full-time employed;Other;10,9;7,6;36,5
+395073;58;Male;Brazil;Urban;High;Unemployed;Master's;1,7;7,8;39,8
+396144;36;Male;Australia;Urban;Lower-middle;Full-time employed;Some college;11,3;4,8;47,4
+397749;56;Male;Canada;Urban;Low;Student;Some college;9,6;6,3;13,8
+399368;64;Female;United States;Urban;Low;Student;Master's;17;6,6;46,9
+399465;61;Male;India;Urban;Low;Unemployed;Master's;3,9;7,2;53,5
+399742;28;Male;India;Urban;Lower-middle;Full-time employed;Some college;13,2;5,7;38,2
+400053;58;Male;India;Rural;Middle;Full-time employed;High school;11,2;6,8;60,7
+400699;46;Male;Other;Suburban;Lower-middle;Freelancer;Bachelor's;4,4;5,9;31,8
+401996;48;Female;Canada;Urban;High;Full-time employed;Master's;4;8,1;47
+402866;60;Female;United States;Suburban;Low;Unemployed;Some college;10,8;7,5;43,1
+402939;24;Female;Brazil;Urban;Middle;Student;Master's;2,6;4,6;57,5
+404436;61;Female;Australia;Suburban;Lower-middle;Student;Some college;8,5;7,8;27,9
+404696;52;Male;United States;Rural;Lower-middle;Part-time;Bachelor's;3,2;7;44,1
+407486;39;Male;United States;Rural;Upper-middle;Student;Bachelor's;5,9;5,1;49
+407709;26;Male;Brazil;Urban;Upper-middle;Student;Some college;4,8;8;49,3
+408029;18;Male;India;Suburban;Lower-middle;Freelancer;Bachelor's;8;6,3;38,7
+408403;37;Male;Australia;Rural;Middle;Freelancer;Other;5,1;7,5;47
+408901;28;Male;India;Suburban;Upper-middle;Freelancer;High school;10,9;7,2;39,1
+409152;24;Female;United Kingdom;Suburban;Lower-middle;Full-time employed;Bachelor's;4,9;5,6;43,6
+409370;48;Male;Japan;Urban;Lower-middle;Full-time employed;Some college;7,4;5,2;44
+410769;27;Female;India;Suburban;Middle;Student;Bachelor's;10,6;5,6;47,8
+410984;35;Male;Canada;Rural;Low;Student;Bachelor's;2,3;7,2;30,1
+411019;30;Female;United States;Suburban;Lower-middle;Freelancer;High school;8;5,8;29,3
+413043;14;Male;United States;Rural;High;Freelancer;Bachelor's;3,2;7,9;43,7
+413126;57;Male;United States;Urban;Lower-middle;Part-time;High school;13,2;7,1;58
+414490;45;Non-binary;India;Urban;Low;Student;High school;7,9;5,2;30,6
+417586;39;Male;Australia;Urban;Low;Part-time;High school;2,6;5,7;31,2
+418795;27;Female;Canada;Rural;Low;Full-time employed;Bachelor's;9,5;6,9;39,7
+419259;30;Male;India;Urban;Upper-middle;Full-time employed;Master's;14,7;6,6;41,6
+420536;54;Non-binary;Australia;Urban;Middle;Student;Some college;4,7;6,9;43,6
+422109;35;Male;India;Urban;High;Full-time employed;Master's;3,1;7,3;33,3
+422260;53;Male;India;Suburban;Low;Full-time employed;Bachelor's;6,9;8,1;44,9
+424626;39;Male;Brazil;Suburban;Upper-middle;Freelancer;Some college;7,2;6;37
+425804;46;Female;India;Urban;Upper-middle;Student;Other;7,7;6,4;45,7
+425823;41;Male;Canada;Suburban;Middle;Full-time employed;Bachelor's;6,4;4,9;58,1
+428853;28;Female;Germany;Suburban;Middle;Student;High school;4,7;9;51,1
+429912;30;Male;United States;Urban;Lower-middle;Unemployed;High school;15,3;9,1;53,9
+431738;48;Female;United States;Suburban;Low;Full-time employed;High school;7,9;6,3;34
+432009;33;Female;Other;Suburban;Lower-middle;Full-time employed;Some college;9,8;5,8;41,3
+432648;39;Prefer not to say;Other;Urban;Middle;Student;Bachelor's;4,3;8,5;37,5
+433927;60;Female;South Korea;Urban;Lower-middle;Freelancer;Bachelor's;12,7;6,9;62,5
+435106;37;Female;South Korea;Urban;Low;Full-time employed;Bachelor's;3,5;6,9;36,8
+435580;29;Female;India;Urban;Upper-middle;Student;Bachelor's;3,7;8,1;29,7
+436161;14;Male;Canada;Suburban;Middle;Student;Other;2,4;6,4;36,5
+437166;29;Male;Germany;Urban;Low;Unemployed;Bachelor's;10,9;5,3;43,7
+441981;48;Male;Brazil;Urban;Middle;Unemployed;Master's;10,5;6,5;46,7
+441995;35;Female;India;Urban;Middle;Unemployed;High school;8,1;6,3;46,2
+442111;47;Male;Canada;Suburban;Lower-middle;Full-time employed;Some college;8,5;4,1;46
+443962;16;Female;United Kingdom;Urban;Upper-middle;Freelancer;High school;5,4;6,5;34,9
+445211;44;Female;United Kingdom;Urban;Upper-middle;Freelancer;High school;13,7;7,7;42,4
+447024;32;Male;Canada;Rural;Lower-middle;Full-time employed;Master's;6;7,3;50
+447830;50;Female;United States;Rural;Middle;Full-time employed;PhD;4,1;5,7;41,2
+448507;47;Male;India;Urban;Middle;Part-time;High school;8,3;8,6;39,4
+451705;64;Male;Canada;Suburban;High;Retired;Bachelor's;8,6;8;41,6
+454345;25;Female;Japan;Suburban;Lower-middle;Student;PhD;11,3;6,8;49,5
+455696;22;Male;Brazil;Suburban;Middle;Part-time;Master's;8,2;8,1;30
+456634;55;Female;Germany;Urban;Lower-middle;Full-time employed;Bachelor's;16,4;7,2;23,2
+457427;53;Female;United Kingdom;Urban;Lower-middle;Full-time employed;Bachelor's;5,8;8,5;35,1
+457781;52;Male;Germany;Suburban;Middle;Unemployed;Other;3,7;5,6;40,7
+458078;21;Female;Brazil;Suburban;Lower-middle;Freelancer;Master's;9,1;6,5;49,7
+458565;39;Male;United States;Rural;Lower-middle;Freelancer;High school;9;5,8;42,7
+459391;31;Female;United Kingdom;Urban;High;Full-time employed;Other;3,5;6;39,5
+460125;23;Female;Other;Urban;Upper-middle;Full-time employed;Bachelor's;6,5;7,6;25,8
+461662;59;Female;Australia;Urban;Lower-middle;Freelancer;Master's;1,9;5,6;59,7
+461770;39;Male;United States;Urban;Low;Student;Some college;4,4;6;30,8
+462096;18;Male;India;Suburban;High;Student;Other;6,3;8,1;40,7
+462212;64;Male;Other;Urban;Lower-middle;Full-time employed;Bachelor's;1,1;7,8;63,9
+462281;31;Male;United Kingdom;Rural;High;Student;PhD;3,9;8,9;28
+464135;41;Female;Japan;Urban;Lower-middle;Unemployed;Some college;7,7;7,4;44,1
+465153;14;Male;United States;Urban;Low;Full-time employed;Bachelor's;3,8;6,8;41
+465526;59;Male;United Kingdom;Rural;Middle;Unemployed;Bachelor's;2,3;7;39,6
+466331;32;Female;United States;Suburban;Lower-middle;Full-time employed;Bachelor's;4,6;8,2;42,3
+467551;50;Male;Brazil;Suburban;Low;Full-time employed;High school;6,3;7,4;33,7
+468410;57;Female;India;Suburban;Upper-middle;Student;Bachelor's;5,6;8,6;41,1
+469159;40;Male;Brazil;Urban;Middle;Unemployed;PhD;11,3;7,4;46,3
+470327;65;Female;United Kingdom;Rural;Middle;Full-time employed;Bachelor's;6,6;7,1;40,9
+470559;27;Male;Brazil;Urban;Upper-middle;Freelancer;Bachelor's;17,3;6,4;37,9
+470989;38;Female;Brazil;Urban;Middle;Student;Bachelor's;3,2;6,8;30,3
+471286;43;Female;Japan;Urban;Lower-middle;Student;Bachelor's;3,4;7,6;27,4
+472356;39;Male;United States;Urban;Upper-middle;Unemployed;Some college;11,8;8,5;18,7
+474196;50;Male;United Kingdom;Rural;Upper-middle;Part-time;Bachelor's;3,1;7;34,2
+476021;52;Female;Brazil;Suburban;Low;Unemployed;High school;10,1;7,1;25,5
+476232;63;Female;United Kingdom;Urban;Lower-middle;Full-time employed;High school;5,7;4,6;31,1
+476574;26;Male;Brazil;Urban;Upper-middle;Freelancer;Bachelor's;11,8;6;41,9
+477519;59;Male;United States;Urban;Middle;Part-time;Some college;8,7;6,2;37,2
+477527;32;Male;Brazil;Suburban;Low;Part-time;Bachelor's;2,8;8;44,5
+477880;61;Male;United Kingdom;Suburban;Middle;Student;Master's;4,8;8,5;42,9
+477895;34;Female;Brazil;Urban;Lower-middle;Full-time employed;Some college;2,2;6,1;51,1
+478147;54;Female;United Kingdom;Urban;Middle;Unemployed;High school;2;8,3;36,5
+478644;35;Female;United States;Rural;Middle;Full-time employed;High school;1,5;5,8;44,1
+480091;32;Non-binary;Brazil;Urban;Low;Unemployed;Bachelor's;2,6;5,8;40,9
+480128;61;Female;South Korea;Urban;Lower-middle;Full-time employed;High school;12,4;5,6;26,9
+480881;43;Male;United States;Urban;Lower-middle;Full-time employed;Master's;1,9;7,3;38,8
+481668;31;Male;Brazil;Urban;Low;Full-time employed;Some college;4,2;7,6;32,3
+481719;27;Non-binary;Canada;Suburban;Lower-middle;Retired;High school;7,1;7,1;50,4
